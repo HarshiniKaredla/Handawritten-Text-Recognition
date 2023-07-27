@@ -1,1 +1,1 @@
-# Handawritten-Text-Recognition
+# Handwritten-Text-Recognition
